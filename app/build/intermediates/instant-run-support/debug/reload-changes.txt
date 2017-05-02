@@ -1,0 +1,10 @@
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\CarNotification$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\R$drawable$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\Tab2$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\Tab1$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\R$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\MainActivity$SectionsPagerAdapter$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\R$style$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\R$id$override.class
+CHANGED,C:\Users\Bettayeb\Desktop\mobi_app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\mobi_app\R$string$override.class

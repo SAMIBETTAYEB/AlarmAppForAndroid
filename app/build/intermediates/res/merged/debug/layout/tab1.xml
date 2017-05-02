@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <EditText
+        android:id="@+id/editText1"
+        android:hint="mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+            android:autoText="true"
+            android:singleLine="true">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+         android:hint="model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autoText="true"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/editText3"
+         android:hint="year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autoText="true"
+        android:numeric="integer"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/editText4"
+         android:hint="matricule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autoText="true"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/editText5"
+         android:hint="color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autoText="true"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/editText6"
+         android:hint="motor type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:autoText="true"
+        android:singleLine="true" />
+
+            <TimePicker
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/timePicker" />
+
+            <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/datePicker"
+        android:calendarViewShown="false" />
+
+            <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:layout_gravity="right"
+        android:text="Add" />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
